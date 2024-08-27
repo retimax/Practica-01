@@ -1,9 +1,6 @@
 # Presentación
 Mi nombre es Karol René Rivas Díaz y tengo 18 años,
-<<<<<<< HEAD
-=======
 
->>>>>>> 40a2d5d (first commit)
 ![Mi foto](./images/miFoto.jpg)
 
 ## Quién soy?
