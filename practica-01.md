@@ -1,7 +1,7 @@
 # Presentación
 Mi nombre es Karol René Rivas Díaz y tengo 18 años,
 
-![Mi foto](./images/miFoto.jpg)
+![Mi foto](./assets/miFoto.jpg)
 
 ## Quién soy?
 Soy un joven entusiasta de la tecnologia con clara inclinación hacia la ciberseguridad, egresado de el CECyT y desde tiempo atras he estado inmerso en el mundo de la programación, hace como un añodescubri el _**Pentesting**_ y todo ese mundo _**Red Teamer**_ de la ciberseguridad y completamente me atrapo, el concepto de entrar en espacios donde no deberia estar aprovechandome de errores humanos es mi parte favorita de este ambito.
