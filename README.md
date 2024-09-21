@@ -5,3 +5,4 @@
 - [Practica 5](./practica-05.md)
 - [Practica 6](https://github.com/retimax/practica-06)
 - [Practica 7](https://github.com/retimax/practica-06)
+- [Practica 8](./practica-08.md)
